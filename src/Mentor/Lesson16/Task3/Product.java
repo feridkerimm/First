@@ -1,6 +1,6 @@
 package Mentor.Lesson16.Task3;
 
-public abstract class Product implements Printable {
+public abstract class Product {
 
     String name;
     double unitPrice;
